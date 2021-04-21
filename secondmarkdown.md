@@ -27,10 +27,30 @@ cd folder1
 git init 
 
 nano readme.md (then write what you want)
+
+ This is a test did by Steffan, enjoy it
  
  Ctrl+X & enter
 
 git add readme.md 
+
+git commit -m "namecommit"
+
+
+##-Basic workflow commands to stage and commit
+
+
+##-Push to a remote repository
+
+git init 
+
+nano readme.md (then write what you want)
+ 
+ Ctrl+X & enter
+
+git add readme.md 
+ 
+ This is a test did by Steffan, enjoy it
 
 git commit -m "namecommit"
 
@@ -48,5 +68,6 @@ git status
 
 git push -u origin main
 
-##-Basic workflow commands to stage and commit
+##-Branches: create, delete, save/commit & merge 
 
+##-Gitflow 
