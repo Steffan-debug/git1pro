@@ -2,9 +2,7 @@
  
 ## This is the way I did it. 
 
-The archive named "firstmarkdown.md" is the first part of the task, only containing the basic concepts 
-
-of  the console of git/github.
+The archive named "firstmarkdown.md" is the first part of the task, only containing the basic concepts of  the console of git/github.
 
 The second archive "secondmarkdown.md" only contains the git / github with examples. 
 
