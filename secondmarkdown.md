@@ -1,6 +1,6 @@
-The git / github with examples:
+#The git / github with examples:
 
--The initial configuration: 
+##-The initial configuration: 
 
 git config --global user.name "You" 
 
@@ -13,6 +13,8 @@ git config --global init.defailtBranch main
 git config --list 
 
 nano ReadMe.md
+
+##-Starting a project from zero or cloning an existing repository
 
 
 
