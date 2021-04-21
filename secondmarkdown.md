@@ -12,4 +12,8 @@ git config --global init.defailtBranch main
 
 git config --list 
 
+nano ReadMe.md
+
+
+
 
