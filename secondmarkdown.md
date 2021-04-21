@@ -20,17 +20,33 @@ cd..
 
 cd..
 
-mkdir <folder>
+mkdir folder1
 
-cd <folder>
+cd folder1
 
 git init 
 
-nano <file.exten> (then write what you want)
+nano readme.md (then write what you want)
  
  Ctrl+X & enter
 
+git add readme.md 
+
+git commit -m "namecommit"
+
+git branch -m main 
+
+git remote add origin https://github.com/Steffan-debug/git1pro.git
+
+nano programc.c
+
+ Ctrl+X & enter
+
+commit -m "head2"
+
+git status  
+
+git push -u origin main
+
 ##-Basic workflow commands to stage and commit
-
-
 
