@@ -39,7 +39,25 @@ git commit -m "namecommit"
 
 ##-Basic workflow commands to stage and commit
 
+git clone steffan-debug@host:/path/to/repository
 
+nano cellphone.js
+
+ Script to accelarate the hub of the principal bar.
+
+ Ctrl+X & enter
+
+git add cellphone.js
+
+git commit -m "barfix"
+
+git push -u origin main 
+
+git checkout -b cellphone 
+
+git flow init
+
+git flow feature start feature_branch 
 ##-Push to a remote repository
 
 git init 
@@ -91,7 +109,9 @@ git branch checkout noe
 nano mike.py 
 
  print('Hello, world! I am here') 
+
  print('Are you afraid?)
+
  ctrl + & y + enter
 
 git add mike.py 
@@ -121,3 +141,4 @@ git branch checkout mike
 git branch -d cabello
 
 ##-Gitflow 
+
