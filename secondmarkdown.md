@@ -142,3 +142,48 @@ git branch -d cabello
 
 ##-Gitflow 
 
+mkdir gitflow
+
+cd mkdir
+
+git flow init 
+
+ main
+
+ develop
+
+ Confirm default options
+
+ Check the gitflow directory and all done 
+
+git branch =a 
+
+ Check branches
+
+git flow feature start freature_main
+
+touch feature.html
+
+git add .
+
+git commit -m "commt1"
+
+git reflog
+
+git flow feature finish freature_main
+
+git tag -1 
+
+git flow release start '0.0.1'
+
+touch fix.html
+ 
+git add . 
+
+git commit -m "fix0.0.1"
+
+git flow release finish '0.0.1'
+
+git tag -1
+
+
