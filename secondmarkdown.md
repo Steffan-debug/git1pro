@@ -70,4 +70,54 @@ git push -u origin main
 
 ##-Branches: create, delete, save/commit & merge 
 
+git checkout mike
+
+nano mike.py
+ 
+ print('Hello, world!') ctrl + & y + enter
+
+git add mike.py
+
+git commit -m "commit1m"
+ 
+git branch 
+
+git log + q
+
+git branch noe
+
+git branch checkout noe
+
+nano mike.py 
+
+ print('Hello, world! I am here') 
+ print('Are you afraid?)
+ ctrl + & y + enter
+ 
+git add mike.py 
+
+git commit "commit1n"
+
+git checkout mike
+
+git merge noe
+
+git log (verify the merge)
+
+git pull 
+
+git push
+
+git checkout noe 
+
+git push 
+
+git push --set upstream origin noe 
+
+git branch -b cabello
+
+git branch checkout mike 
+
+git branch -d cabello
+
 ##-Gitflow 
