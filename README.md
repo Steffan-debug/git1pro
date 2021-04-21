@@ -1,6 +1,6 @@
 # Final task git/git hub
  
-##This is the way I did it. 
+## This is the way I did it. 
 
 The archive named "firstmarkdown.md" is the first part of the task, only containing the basic concepts 
 
